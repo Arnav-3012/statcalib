@@ -1,0 +1,13 @@
+Disease,N_test,Coverage_target,Coverage_actual,Guarantee_met,q_hat,Confident_pct,Uncertain_pct,Empty_sets,Avg_set_size
+Atelectasis,3000,0.9,0.904,True,0.2899,98.9,0.0,32,0.989
+Cardiomegaly,3000,0.9,0.9373,True,0.026,94.8,0.0,157,0.948
+Effusion,3000,0.9,0.9027,True,0.4074,98.1,0.0,58,0.981
+Infiltration,3000,0.9,0.917,True,0.7556,80.6,19.4,0,1.194
+Mass,3000,0.9,0.9063,True,0.0758,92.8,0.0,216,0.928
+Nodule,3000,0.9,0.9343,True,0.1003,97.5,0.0,75,0.975
+Pneumonia,3000,0.9,0.961,True,0.0201,97.2,0.0,84,0.972
+Pneumothorax,3000,0.9,0.949,True,0.1108,99.5,0.0,14,0.995
+Consolidation,3000,0.9,0.9173,True,0.1013,94.9,0.0,153,0.949
+Edema,3000,0.9,0.9207,True,0.0411,92.8,0.0,215,0.928
+Emphysema,3000,0.9,0.925,True,0.0326,94.2,0.0,174,0.942
+Fibrosis,3000,0.9,0.889,False,0.0339,90.4,0.0,288,0.904
