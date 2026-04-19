@@ -1,0 +1,12 @@
+torchxrayvision
+torch
+torchvision
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+matplotlib
+seaborn
+jupyter
+scikit-image
